@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=#000000&height=5vh&section=header&text=Ehyun's github&fontSize=3em" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=#FFFFFF&height=5vh&section=header&text=Ehyun's github&fontSize=3em" />
 
 I learn about JS, HTML, CSS, TypeScript, Sqlite3, Babel, WebPack
 
