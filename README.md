@@ -14,3 +14,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
