@@ -16,5 +16,8 @@
 </div>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Songehyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div display="gird" grid-template-colmns: 1fr 1fr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songehyun&exclude_repo=Songehyun.github.io&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Songehyun&theme=tokyonight&show_icons=true" width="47%"/>
+  </div>
 </div>
