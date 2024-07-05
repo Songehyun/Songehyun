@@ -2,7 +2,7 @@
 
 I learn about JS, HTML, CSS, TypeScript, Sqlite3, Babel, WebPack
 
-I will learn React, MySQL, MongoDB
+I will learn React, MySQL, MongoDB , test
 
 ## Thank you for watch
 <!--
