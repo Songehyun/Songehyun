@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi My name is ehyun Song 👋
 
+I learn about JS, HTML, CSS, TypeScript, Sqlite3, Babel, WebPack
+
+I will learn React, MySQL, MongoDB
+
+## Thank you for watch
 <!--
 **Songehyun/Songehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
