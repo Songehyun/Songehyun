@@ -33,3 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Songehyun&theme=tokyonight&show_icons=true" width="47%"/>
   </div>
 </div>
+
+
+팀 작업 1. 이세상에 없는 상품을 파는 상점 만들기
+https://github.com/Songehyun/subject-7-exam-database-1.git
