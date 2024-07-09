@@ -43,3 +43,6 @@ https://github.com/Songehyun/subject-7-exam-database-1.git
 개인 작업 1. 패치노트 올릴 수 있는 블로그 만들기
 <br>
 https://github.com/Songehyun/makeblog.git
+<br>
+개인 작업 2. babel, TS, webpack, react 셋업
+https://github.com/Songehyun/React-ts-babel-webpack_setup.git
