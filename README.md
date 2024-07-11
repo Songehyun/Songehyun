@@ -47,3 +47,13 @@ https://github.com/Songehyun/makeblog.git
 개인 작업 2. babel, TS, webpack, react 셋업
 <br>
 https://github.com/Songehyun/React-ts-babel-webpack_setup.git
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Songehyun"
+  width="600"
+  height="300"
+/>
+</a>
