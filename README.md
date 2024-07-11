@@ -49,6 +49,7 @@ https://github.com/Songehyun/makeblog.git
 https://github.com/Songehyun/React-ts-babel-webpack_setup.git
 
 
+<div align="center">
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -57,3 +58,5 @@ https://github.com/Songehyun/React-ts-babel-webpack_setup.git
   height="300"
 />
 </a>
+</div>
+
