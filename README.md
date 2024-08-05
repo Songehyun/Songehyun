@@ -44,11 +44,7 @@ https://github.com/Songehyun/subject-7-exam-database-1.git
 <br>
 https://github.com/Songehyun/makeblog.git
 <br>
-개인 작업 2. babel, TS, webpack, react 셋업
-<br>
-https://github.com/Songehyun/React-ts-babel-webpack_setup.git
-<br>
-개인 작업 3. 인터넷 페이지 셋업
+개인 작업 2. 인터넷 페이지 셋업
 <br>
 https://github.com/Songehyun/page_setup.git
 
