@@ -10,7 +10,7 @@
 <!--   <img src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-git-F05032?style=flat&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-aws-181717?style=flat&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-aws-232F3E?style=flat&logo=github&logoColor=white"/> 
 <!--   <img src="https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white"/> -->
 </div>
 
