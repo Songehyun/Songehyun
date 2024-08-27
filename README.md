@@ -49,7 +49,10 @@ https://github.com/Songehyun/makeblog.git
 개인 작업 2. 인터넷 페이지 셋업
 <br>
 https://github.com/Songehyun/page_setup.git
-
+<br>
+개인 작업 3. 텍스트 어드벤처 형식 홈페이지 만들어보기
+<br>
+https://github.com/Songehyun/texthomepage.git
 
 <div align="center">
 
