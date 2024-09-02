@@ -42,6 +42,10 @@
 <br>
 https://github.com/Songehyun/subject-7-exam-database-1.git
 <br>
+팀 작업 2. 웹 소켓을 이용한 4인용 보드게임 만들기
+<br>
+https://github.com/Songehyun/WebSocketBoardgame.git
+<br>
 개인 작업 1. 패치노트 올릴 수 있는 블로그 만들기
 <br>
 https://github.com/Songehyun/makeblog.git
